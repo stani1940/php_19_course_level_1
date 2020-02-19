@@ -1,0 +1,16 @@
+table{
+	margin: 0 auto;
+	border: solid 1px;
+	width: 300px;
+	height: 200px;
+	text-align: center;	
+}
+td{
+	border: solid 1px;
+}
+.left{
+	color: #1B9571;
+}
+.right{
+	color: #B61616;
+}
